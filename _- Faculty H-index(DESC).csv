@@ -1,0 +1,50 @@
+NO,FACULTY,Designation,School,H-Index,Kz Score,Gender,Total Publications,Total Citations,Kz log values
+1,Dr Prasada Rao Ak,Professor,SOET ,19,5.403,Male,50,1097,0.7326
+2,Dr Himanshu Upreti,Assistant Professor,SOET ,17,14.22,Male,30,818,1.1528
+3,Dr Abhimanyu Singh Rana,Associate Professor,SOET ,12,5.415,Male,40,504,0.7335
+4,Rishi Asthana,Associate Professor,SOET ,11,3.39,Male,41,336,0.5301
+5,Dr Soharab Hossain Shaikh,Associate Professor,,10,5.512,Male,43,471,0.7413
+6,Dr Vishal Baloria,Assistant Professor,,10,2.69,Male,15,418,0.4297
+7,Dr Ziya Uddin,Professor,,10,6.489,Male,22,309,0.8121
+8,Devanjali Relan,Assistant Professor,,9,3.611,Female,21,230,0.5576
+9,Dr Amar Rao,Assistant Professor,,9,11.67,Male,21,407,1.067
+10,Dr Hirdesh Kumar Pharasi,Assistant Professor,,8,2.823,Male,13,121,0.4507
+11,Kiran Khatter,Associate Professor,,8,4.22,Female,32,241,0.625
+12,Sanmitra Barman,Assistant Professor,,8,1.859,Male,13,131,0.2692
+13,Dr Satyendr Singh,Assistant Professor,,7,1.947,Male,8,159,0.2893
+14,Dr Kiran Sharma,Assistant Professor,,7,4.312,Female,22,126,0.6346
+15,Amiya Kumar Dash,Associate Professor,,7,3.313,Male,36,252,0.5202
+16,Arijit Maitra,Assistant Professor,,7,1.15,Male,11,393,0.0606
+17,Yogesh Gupta,Associate Professor,,7,3.938,Male,27,231,0.5952
+18,Ranjib Banerjee,Assistant Professor,,7,1.16,Male,11,231,0.0644
+19,Dr Suchitra Chauhan,Assistant Professor,SOLS,6,1.144,Female,15,129,0.0584
+20,Neeraj Sharma,Assistant Professor,,6,1.654,Male,8,134,0.2185
+21,Dr Suchitra Chauhan ,Assistant Professor,SOLS,6,1.144,Female,15,129,0.0584
+22,Dr Chhayabrita Maji,,,5,1.086,Female,13,84,0.0358
+23,Ashok Suhag,Associate Professor,,5,4.27,Male,16,96,0.6304
+24,Dr Rik Paul,Associate Professor,,5,1.27,Male,14,62,0.1038
+25,Rajiv Dey,Associate Professor,,4,2.84,Male,17,60,0.4533
+26,Dr Ruchi Garg,Associate Professor,,4,3.66,Female,16,102,0.5634
+27,Vikas Kathuria,Associate Professor,,4,1.54,Male,13,36,0.1875
+28,Nishtha Phutela,Assistant Professor,,3,3.15,Female,11,22,0.4983
+29,Ajay Kumar Sood,Assistant Professor,,3,0.79,Male,3,3,-0.1023
+30,Dr Ritu Chhikara,Associate Professor,,3,7.22,Female,11,51,0.8585
+31,Dr Atul Mishra,Assistant Professor,,2,2.994,Male,3,26,0.4762
+32,Maneek Kumar,Dean,,2,1.137,Male,2,92,0.0557
+33,Sushil Chandra, Professor,,2,0.158,Male,6,5,-0.8013
+34,Dr Chirag Malik,Associate Professor,,2,0.87,Male,4,42,-0.0604
+35,Dr Jaya Ahuja,Associate Professor,,2,3.87,Female,6,52,0.5877
+36,Dr Sucheta Sardar,,,2,0.201,Female,4,14,-0.6968
+37,Anandini Dar,Associate Professor,,2,1.518,Female,5,34,0.1812
+38,Dr Amrisha Pandey,Assistant Professor,,1,0.0014,Female,3,1,
+39,Nirupama M P,Assistant Professor,,1,0.2,Female,3,3,-0.6989
+40,Dr Jaskiran Arora,Dean,,1,0.0007,Female,6,1,
+41,Shayequa Zeenat Ali,Assistant Professor,,1,1.58,Female,2,3,0.1986
+42,Pritam baruah,Professor,,1,0.111,Male,3,2,
+43,Dr Bhavika Bali Sahni,Assistant Professor,SOM,0,0,Female,1,0,
+44,Dr Kaushik Nallan Chakravartula,Assistant Professor,,0,0.001,Male,1,0,
+45,Dr Jolly Masih,,,0,0,Female,1,0,
+46,Aditya Krishna Chhinapati,Associate Professor,,0,0,Male,1,0,
+47,Akhilendra Pratap Singh,Assistant Professor,,0,0,Male,1,0,
+48,Urmi Gupta,Assistant Professor,,0,0,Female,1,0,
+,,,,,,,661,7658,
